@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dKoP+QHJ3F3actoodKzbi4uanMWjcIZo354x2Nw//3gZOHsKdGfO8Qr+n/SXZCdFhcGvBUv58cfmfCggPWj/Sg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Herbet\\Documents\\Henry\\TP FINAL SISTEMAS OPERATIVOS\\tp final completo\\tpfinalv3 prueba docker funciones separadas\\tpfinalv3\\tpfinalv3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Herbet\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512"
+  ],
+  "logs": []
+}

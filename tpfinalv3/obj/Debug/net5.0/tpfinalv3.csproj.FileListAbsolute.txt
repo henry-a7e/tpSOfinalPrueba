@@ -1,0 +1,32 @@
+C:\Users\Herbet\Documents\Henry\TP FINAL SISTEMAS OPERATIVOS\visual estudio\1\tpfinalv3\tpfinalv3\bin\Debug\net5.0\tpfinalv3.exe
+C:\Users\Herbet\Documents\Henry\TP FINAL SISTEMAS OPERATIVOS\visual estudio\1\tpfinalv3\tpfinalv3\bin\Debug\net5.0\tpfinalv3.deps.json
+C:\Users\Herbet\Documents\Henry\TP FINAL SISTEMAS OPERATIVOS\visual estudio\1\tpfinalv3\tpfinalv3\bin\Debug\net5.0\tpfinalv3.runtimeconfig.json
+C:\Users\Herbet\Documents\Henry\TP FINAL SISTEMAS OPERATIVOS\visual estudio\1\tpfinalv3\tpfinalv3\bin\Debug\net5.0\tpfinalv3.runtimeconfig.dev.json
+C:\Users\Herbet\Documents\Henry\TP FINAL SISTEMAS OPERATIVOS\visual estudio\1\tpfinalv3\tpfinalv3\bin\Debug\net5.0\tpfinalv3.dll
+C:\Users\Herbet\Documents\Henry\TP FINAL SISTEMAS OPERATIVOS\visual estudio\1\tpfinalv3\tpfinalv3\bin\Debug\net5.0\ref\tpfinalv3.dll
+C:\Users\Herbet\Documents\Henry\TP FINAL SISTEMAS OPERATIVOS\visual estudio\1\tpfinalv3\tpfinalv3\bin\Debug\net5.0\tpfinalv3.pdb
+C:\Users\Herbet\Documents\Henry\TP FINAL SISTEMAS OPERATIVOS\visual estudio\1\tpfinalv3\tpfinalv3\obj\Debug\net5.0\tpfinalv3.csproj.AssemblyReference.cache
+C:\Users\Herbet\Documents\Henry\TP FINAL SISTEMAS OPERATIVOS\visual estudio\1\tpfinalv3\tpfinalv3\obj\Debug\net5.0\tpfinalv3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Herbet\Documents\Henry\TP FINAL SISTEMAS OPERATIVOS\visual estudio\1\tpfinalv3\tpfinalv3\obj\Debug\net5.0\tpfinalv3.AssemblyInfoInputs.cache
+C:\Users\Herbet\Documents\Henry\TP FINAL SISTEMAS OPERATIVOS\visual estudio\1\tpfinalv3\tpfinalv3\obj\Debug\net5.0\tpfinalv3.AssemblyInfo.cs
+C:\Users\Herbet\Documents\Henry\TP FINAL SISTEMAS OPERATIVOS\visual estudio\1\tpfinalv3\tpfinalv3\obj\Debug\net5.0\tpfinalv3.csproj.CoreCompileInputs.cache
+C:\Users\Herbet\Documents\Henry\TP FINAL SISTEMAS OPERATIVOS\visual estudio\1\tpfinalv3\tpfinalv3\obj\Debug\net5.0\tpfinalv3.dll
+C:\Users\Herbet\Documents\Henry\TP FINAL SISTEMAS OPERATIVOS\visual estudio\1\tpfinalv3\tpfinalv3\obj\Debug\net5.0\ref\tpfinalv3.dll
+C:\Users\Herbet\Documents\Henry\TP FINAL SISTEMAS OPERATIVOS\visual estudio\1\tpfinalv3\tpfinalv3\obj\Debug\net5.0\tpfinalv3.pdb
+C:\Users\Herbet\Documents\Henry\TP FINAL SISTEMAS OPERATIVOS\visual estudio\1\tpfinalv3\tpfinalv3\obj\Debug\net5.0\tpfinalv3.genruntimeconfig.cache
+C:\Users\Herbet\Documents\Henry\TP FINAL SISTEMAS OPERATIVOS\tp final completo\tpfinalv3 completo\tpfinalv3\bin\Debug\net5.0\tpfinalv3.exe
+C:\Users\Herbet\Documents\Henry\TP FINAL SISTEMAS OPERATIVOS\tp final completo\tpfinalv3 completo\tpfinalv3\bin\Debug\net5.0\tpfinalv3.deps.json
+C:\Users\Herbet\Documents\Henry\TP FINAL SISTEMAS OPERATIVOS\tp final completo\tpfinalv3 completo\tpfinalv3\bin\Debug\net5.0\tpfinalv3.runtimeconfig.json
+C:\Users\Herbet\Documents\Henry\TP FINAL SISTEMAS OPERATIVOS\tp final completo\tpfinalv3 completo\tpfinalv3\bin\Debug\net5.0\tpfinalv3.runtimeconfig.dev.json
+C:\Users\Herbet\Documents\Henry\TP FINAL SISTEMAS OPERATIVOS\tp final completo\tpfinalv3 completo\tpfinalv3\bin\Debug\net5.0\tpfinalv3.dll
+C:\Users\Herbet\Documents\Henry\TP FINAL SISTEMAS OPERATIVOS\tp final completo\tpfinalv3 completo\tpfinalv3\bin\Debug\net5.0\ref\tpfinalv3.dll
+C:\Users\Herbet\Documents\Henry\TP FINAL SISTEMAS OPERATIVOS\tp final completo\tpfinalv3 completo\tpfinalv3\bin\Debug\net5.0\tpfinalv3.pdb
+C:\Users\Herbet\Documents\Henry\TP FINAL SISTEMAS OPERATIVOS\tp final completo\tpfinalv3 completo\tpfinalv3\obj\Debug\net5.0\tpfinalv3.csproj.AssemblyReference.cache
+C:\Users\Herbet\Documents\Henry\TP FINAL SISTEMAS OPERATIVOS\tp final completo\tpfinalv3 completo\tpfinalv3\obj\Debug\net5.0\tpfinalv3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Herbet\Documents\Henry\TP FINAL SISTEMAS OPERATIVOS\tp final completo\tpfinalv3 completo\tpfinalv3\obj\Debug\net5.0\tpfinalv3.AssemblyInfoInputs.cache
+C:\Users\Herbet\Documents\Henry\TP FINAL SISTEMAS OPERATIVOS\tp final completo\tpfinalv3 completo\tpfinalv3\obj\Debug\net5.0\tpfinalv3.AssemblyInfo.cs
+C:\Users\Herbet\Documents\Henry\TP FINAL SISTEMAS OPERATIVOS\tp final completo\tpfinalv3 completo\tpfinalv3\obj\Debug\net5.0\tpfinalv3.csproj.CoreCompileInputs.cache
+C:\Users\Herbet\Documents\Henry\TP FINAL SISTEMAS OPERATIVOS\tp final completo\tpfinalv3 completo\tpfinalv3\obj\Debug\net5.0\tpfinalv3.dll
+C:\Users\Herbet\Documents\Henry\TP FINAL SISTEMAS OPERATIVOS\tp final completo\tpfinalv3 completo\tpfinalv3\obj\Debug\net5.0\ref\tpfinalv3.dll
+C:\Users\Herbet\Documents\Henry\TP FINAL SISTEMAS OPERATIVOS\tp final completo\tpfinalv3 completo\tpfinalv3\obj\Debug\net5.0\tpfinalv3.pdb
+C:\Users\Herbet\Documents\Henry\TP FINAL SISTEMAS OPERATIVOS\tp final completo\tpfinalv3 completo\tpfinalv3\obj\Debug\net5.0\tpfinalv3.genruntimeconfig.cache

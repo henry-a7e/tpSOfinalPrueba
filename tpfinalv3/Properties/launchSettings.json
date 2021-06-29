@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "tpfinalv3": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
